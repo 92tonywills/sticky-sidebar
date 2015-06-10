@@ -1,5 +1,6 @@
 # stickySidebar
-A simple and usable jQuery plugin for a sticky sidebar.
+A simple and usable jQuery plugin to make a div sticky, useful for sticky sidebars that follow the user
+on scroll. Heavily based on this [css-tricks post](https://css-tricks.com/scrollfollow-sidebar/).
 
 ## Usage
 Simply include jQuery and the script in your head and then call it on the element you wish to make
@@ -34,3 +35,6 @@ The top padding is the space down the page it should be after scrolling.
 The footer threshold is length to the bottom of the page when scrolling should stop, usually the height
 of your footer and any padding you require. If the sticky element is pushing your footer down, increase this
 value until is does not any more.
+
+## Example
+There's an example viewable [here](http://thinkbituk.github.io/sticky-sidebar/).
