@@ -1,0 +1,23 @@
+header {
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+    background-color: #ccc;
+    z-index: 999;
+}
+
+.main-body {
+    padding-top: 100px;
+}
+
+aside {
+    background-color: #eee;
+    padding: 15px;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #ccc;
+}
