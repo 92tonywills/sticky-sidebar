@@ -37,4 +37,4 @@ of your footer and any padding you require. If the sticky element is pushing you
 value until is does not any more.
 
 ## Example
-There's an example viewable [here](http://tony-rowan.github.io/sticky-sidebar/).
+There's an example viewable [here](https://tony-rowan.github.io/sticky-sidebar/).
